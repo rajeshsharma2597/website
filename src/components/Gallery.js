@@ -1,5 +1,3 @@
-import { CleaningServices } from "@mui/icons-material";
-import { imageConfigDefault } from "next/dist/shared/lib/image-config";
 import React from "react";
 
 function Gallery() {
