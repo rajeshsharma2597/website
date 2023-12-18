@@ -22,10 +22,10 @@ function Info() {
             <span>
               <p>
                 I am happy to be back with the Zee TV family with Serial
-                "MITHAI" currently on - aired. I was last seen in ZeeTV Show
-                MANMOHINI. In MITHAI i am playing an integral part and prominent
-                role of Animesh Mishra. My son will be married to the lead boy's
-                sister.
+                &quot;MITHAI&quot; currently on - aired. I was last seen in
+                ZeeTV Show MANMOHINI. In MITHAI i am playing an integral part
+                and prominent role of Animesh Mishra. My son will be married to
+                the lead boy's sister.
               </p>
               <p className=" mt-6">
                 I am making a comeback to TV after my stint with Manmohini. This
@@ -54,10 +54,10 @@ function Info() {
             <span>
               <p>
                 I am happy to be back with the Zee TV family with Serial
-                "MITHAI" currently on - aired. I was last seen in ZeeTV Show
-                MANMOHINI. In MITHAI i am playing an integral part and prominent
-                role of Animesh Mishra. My son will be married to the lead boy's
-                sister.
+                &quot;MITHAI&quot; currently on - aired. I was last seen in
+                ZeeTV Show MANMOHINI. In MITHAI i am playing an integral part
+                and prominent role of Animesh Mishra. My son will be married to
+                the lead boy's sister.
               </p>
               <p className=" mt-6">
                 I am making a comeback to TV after my stint...
