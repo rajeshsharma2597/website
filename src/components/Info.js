@@ -25,7 +25,7 @@ function Info() {
                 &quot;MITHAI&quot; currently on - aired. I was last seen in
                 ZeeTV Show MANMOHINI. In MITHAI i am playing an integral part
                 and prominent role of Animesh Mishra. My son will be married to
-                the lead boy's sister.
+                the lead boy&apos;s sister.
               </p>
               <p className=" mt-6">
                 I am making a comeback to TV after my stint with Manmohini. This
@@ -34,9 +34,10 @@ function Info() {
                 Arvind Babbal Sir and Casting Director Darpan Srivastavji have
                 given me a very delightful role, and I look forward to this
                 stint. Mine will be a positive character. One of my sons is
-                married to the main lead's sister. My other son is on the verge
-                of getting married to the other daughter from the same house.So
-                this family of mine will play a huge part in the narrative.
+                married to the main lead&apos;s sister. My other son is on the
+                verge of getting married to the other daughter from the same
+                house.So this family of mine will play a huge part in the
+                narrative.
               </p>
               <p className=" mt-6">
                 RECENTLY I have done a serial MANMOHINI (Zeetv). I did a
@@ -44,7 +45,7 @@ function Info() {
                 months. I played many shades of comedy and did a Prominent and
                 Continuity role as a GIRIJA SHANKAR for around 8 months. In
                 serial, I played many shades like comedy, negative, serious,
-                Settled, etc.{" "}
+                Settled, etc.
               </p>
               <p className=" mt-6">
                 You can consider me in any kind of Role. Thanks.🙂
@@ -57,7 +58,7 @@ function Info() {
                 &quot;MITHAI&quot; currently on - aired. I was last seen in
                 ZeeTV Show MANMOHINI. In MITHAI i am playing an integral part
                 and prominent role of Animesh Mishra. My son will be married to
-                the lead boy's sister.
+                the lead boy&apos;s sister.
               </p>
               <p className=" mt-6">
                 I am making a comeback to TV after my stint...
