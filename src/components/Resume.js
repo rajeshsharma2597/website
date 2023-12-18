@@ -42,10 +42,11 @@ function Resume() {
               <p className=" mt-1 font-medium">2022</p>
             </div>
             <p className="text-2xl max-w-[325px] max-[700px]:max-w-[65vw] min-[700px]:text-left">
-              I am happy to be back with the Zee TV family with Serial "MITHAI"
-              currently on-aired. In MITHAI i am playing an prominent role of
-              Animesh Mishra. Mine will be a positive character.This family of
-              mine will play a huge part in the narrative.”
+              I am happy to be back with the Zee TV family with Serial
+              &quot;MITHAI &quot; currently on-aired. In MITHAI i am playing an
+              prominent role of Animesh Mishra. Mine will be a positive
+              character.This family of mine will play a huge part in the
+              narrative.”
             </p>
           </div>
         </div>
