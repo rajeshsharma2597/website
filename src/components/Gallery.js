@@ -10,7 +10,7 @@ function Gallery() {
         <div className=" grid grid-cols-4 max-xl:grid-cols-3 max-lg:grid-cols-2 max-[680px]:grid-cols-1 gap-12 w-4/5 ">
           {tempArray.map((e, i) => {
             return (
-              <div className=" flex justify-center">
+              <div key={i} className=" flex justify-center">
                 <img
                   src={`/assets/gallery/gallery_pic${e}.png`}
                   className="gallery_image items-center"
