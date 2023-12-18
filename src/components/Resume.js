@@ -46,7 +46,7 @@ function Resume() {
               &quot;MITHAI &quot; currently on-aired. In MITHAI i am playing an
               prominent role of Animesh Mishra. Mine will be a positive
               character.This family of mine will play a huge part in the
-              narrative.”
+              narrative.&quot;
             </p>
           </div>
         </div>
